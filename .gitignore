@@ -1,0 +1,10 @@
+# Adam project
+.adam-screenshots/
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+.env
+*.egg-info/
+dist/
+build/
